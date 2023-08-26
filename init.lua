@@ -17,5 +17,6 @@ require('plugins.buffline')
 require('plugins.comment')
 require('plugins.gitsigns')
 require('plugins.lualine')
+require('plugins.toggleterm')
 
 

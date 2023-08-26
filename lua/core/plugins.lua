@@ -42,5 +42,5 @@ require("lazy").setup({
 {'terrortylor/nvim-comment'},
 {'lewis6991/gitsigns.nvim'},
 {'nvim-lualine/lualine.nvim'},
-
+{'akinsho/toggleterm.nvim'},
 })
