@@ -38,4 +38,5 @@ require("lazy").setup({
     dependencies = { 'nvim-lua/plenary.nvim' }
 },
 {'windwp/nvim-autopairs'},
+{'akinsho/bufferline.nvim'},
 })
