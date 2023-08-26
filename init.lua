@@ -9,3 +9,6 @@ require('plugins.neotree')
 require('plugins.treesitter')
 require('plugins.hop')
 require('plugins.lsp')
+require('plugins.mason')
+
+
