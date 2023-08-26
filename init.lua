@@ -10,5 +10,6 @@ require('plugins.treesitter')
 require('plugins.hop')
 require('plugins.lsp')
 require('plugins.mason')
+require('plugins.cmp')
 
 
