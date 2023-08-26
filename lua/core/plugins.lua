@@ -40,4 +40,6 @@ require("lazy").setup({
 {'windwp/nvim-autopairs'},
 {'akinsho/bufferline.nvim'},
 {'terrortylor/nvim-comment'},
+{'lewis6991/gitsigns.nvim'},
+
 })

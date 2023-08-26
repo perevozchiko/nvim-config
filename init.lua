@@ -15,5 +15,6 @@ require('plugins.telescope')
 require('plugins.autopairs')
 require('plugins.buffline')
 require('plugins.comment')
+require('plugins.gitsigns')
 
 
