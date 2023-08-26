@@ -18,5 +18,6 @@ require('plugins.comment')
 require('plugins.gitsigns')
 require('plugins.lualine')
 require('plugins.toggleterm')
+require('plugins.whichkey')
 
 

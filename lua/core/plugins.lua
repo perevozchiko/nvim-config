@@ -43,4 +43,5 @@ require("lazy").setup({
 {'lewis6991/gitsigns.nvim'},
 {'nvim-lualine/lualine.nvim'},
 {'akinsho/toggleterm.nvim'},
+{'folke/which-key.nvim'},
 })
